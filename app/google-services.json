@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "61689502799",
+    "project_id": "assignment-ca5af",
+    "storage_bucket": "assignment-ca5af.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:61689502799:android:3b7a238c753836017ade3a",
+        "android_client_info": {
+          "package_name": "com.work.assignment"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCssokcVYilcy0zMbtOq_ll5ZgsyNrRrlE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
